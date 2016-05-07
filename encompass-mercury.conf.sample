@@ -63,3 +63,9 @@ coind_user = dogedrpcuser
 coind_password = rpcpassword
 coind_host = localhost
 coind_port = 107337
+
+[tx]
+coind_user = transferrpc
+coind_password = password
+coind_host = 127.0.0.1
+coind_port = 17171

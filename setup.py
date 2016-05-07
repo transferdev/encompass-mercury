@@ -33,7 +33,8 @@ setup(
         'encompassmercury.chains.viacoin',
         'encompassmercury.chains.mazacoin',
         'encompassmercury.chains.parkbyte',
-        'encompassmercury.chains.clam'
+        'encompassmercury.chains.clam',
+		'encompassmercury.chains.transfer'
     ],
     description="Multi-Coin Electrum Server",
     author="Tyler Willis",
